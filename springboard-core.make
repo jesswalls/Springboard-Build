@@ -315,3 +315,6 @@ projects[commerce_authnet][patch][2063787] = http://drupal.org/files/incorrect_r
 
 ; Add a [current-page:object:?] dynamic token (see: https://www.drupal.org/node/919760)
 projects[token][patch][919760] = https://drupal.org/files/token-current_page_object_token-919760-9.patch
+
+; PR274
+projects[springboard][patch][suppress-p2p-rule] = "patches/springboard_p2p/springboard-p2p-suppress-create-personal-campaign-rule-PR724.patch"
