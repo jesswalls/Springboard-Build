@@ -88,7 +88,7 @@ projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.0
 
 projects[fboauth][subdir] = contrib
-projects[fboauth][version] = 1.6
+projects[fboauth][version] = 2.0-rc1
 
 projects[field_group][subdir] = contrib
 projects[field_group][version] = 1.3
@@ -134,7 +134,7 @@ projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta9
 
 projects[node_clone][subdir] = contrib
-projects[node_clone][version] = 1.0-rc1
+projects[node_clone][version] = 1.0-rc2
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.3
