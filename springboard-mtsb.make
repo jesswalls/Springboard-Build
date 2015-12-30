@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-includes[springboard-core] = https://raw.githubusercontent.com/jesswalls/Springboard-Build/cs-27722-7.x-4.8.2.1-774053b-rc1/springboard-core.make
+includes[springboard-core] = springboard-core.make
 
 projects[cdn][subdir] = contrib
 projects[cdn][version] = 2.6
